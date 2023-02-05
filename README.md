@@ -1,5 +1,6 @@
 # EDA
 Exploratory Data Analysis of AirBnb Bookings
+
 The aim of this project was to perform an exploratory data analysis (EDA) on Airbnb booking data to identify key trends and patterns that would help improve the business. The data consisted of various features such as location, price, number of reviews, property type, room type, and others, and it was collected over a specified period of time. The goal of the EDA was to clean and preprocess the data, conduct statistical and visual analysis, and finally draw conclusions and make recommendations based on the findings.
 The first step in the EDA process was to clean and preprocess the data. This involved handling missing values, removing outliers, and transforming variables where necessary. The cleaning process was important because it ensured that the data was consistent and ready for analysis.
 Next, univariate analysis was performed to get a general understanding of the individual features in the data. This involved summarizing each feature using measures such as mean, median and visualizing the data using histograms and box plots. The results showed that the data was heavily skewed and had outliers, which needed to be removed for accurate analysis.
